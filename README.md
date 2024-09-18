@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" style="display: inline_block"><br>
-    <img src="https://skillicons.dev/icons?i=git,html,css,react,vite,js,ts,arduino,c,postman,mongodb,mysql,postgres,java,py,figma,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,react,vite,js,ts,arduino,c,postman,mongodb,mysql,postgres,java,py,figma,nodejs,tailwindcss,vscode"/>
 </div>
 
 <br>
