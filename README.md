@@ -4,8 +4,6 @@
 
 <br>
 
-## 📊 Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JoviOakz&theme=transparent&ring=F6A200&fire=F6A200&currStreakLabel=F6A200&sideLabels=F6A200&currStreakNum=F6A200&sideNums=F6A200&dates=F6A200&border=F6A200" />
 </p>
